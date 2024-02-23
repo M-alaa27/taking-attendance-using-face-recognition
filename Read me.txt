@@ -1,0 +1,20 @@
+*****Requirements*****
+
+make sure to have vs c++
+make sure to add python to path
+
+run this commands in the Terminal
+
+pip install opencv-python
+pip install numpy
+pip install face-recognition
+pip install tk
+
+***Note***
+captured_images folder is the folder of your students
+
+
+To run the app run start.py 
+
+make sure that the right directory is selected by Terminal use open folder insted of open file to aviod this issue 
+
